@@ -1,3 +1,5 @@
+package Array.Assignment;
+
 public class Capacity_To_Ship_Packages {
     public int shipWithinDays(int[] weights, int days) {
         int l = 0, r = 0;

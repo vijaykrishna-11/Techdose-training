@@ -1,3 +1,5 @@
+package Array.Assignment;
+
 public class Search_in_Rotated_Sorted_Array {
     public int search(int[] nums, int target) {
         int low = 0, high = nums.length - 1;

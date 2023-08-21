@@ -1,3 +1,5 @@
+package Array.Assignment;
+
 public class Buy_Stocks {
     public int maxProfit(int[] prices) {
         int max = 0;
