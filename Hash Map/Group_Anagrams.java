@@ -1,4 +1,4 @@
-import java.util.List;
+import java.util.*;
 
 class Group_Anagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
