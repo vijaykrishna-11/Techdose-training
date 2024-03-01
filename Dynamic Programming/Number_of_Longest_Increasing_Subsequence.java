@@ -1,5 +1,5 @@
 package Dynamic Programming;
 
-public class Number_of_Longest_Increasing_Subsequence {
+public class Number_Of_Longest_Increasing_Subsequence {
     
 }
